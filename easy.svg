@@ -1,0 +1,23 @@
+<svg version="1.1" width="1024" height="1024" xmlns="http://www.w3.org/2000/svg">
+<style>
+        text {
+            font-family: Arial, Helvetica, sans-serif;
+            text-anchor: middle;
+            dominant-baseline: central
+        }
+        text.v {
+            font-size: 86.044444444444px
+        }
+        text.p {
+            font-size: 35.493333333333px
+        }
+        line.p {
+            stroke-width: 3px;
+            stroke: #ff3a00;
+        }
+        line.a {
+            stroke-width: 4px;
+            stroke-linecap: round;
+        }
+</style>
+<rect width="100%" height="100%" fill="black"/><path d="M8 8h107v107h-107zM8 119h107v107h-107zM8 231h107v107h-107zM8 346h107v107h-107zM8 458h107v107h-107zM8 569h107v107h-107zM8 685h107v107h-107zM8 796h107v107h-107zM8 908h107v107h-107zM119 8h107v107h-107zM119 119h107v107h-107zM119 231h107v107h-107zM119 346h107v107h-107zM119 458h107v107h-107zM119 569h107v107h-107zM119 685h107v107h-107zM119 796h107v107h-107zM119 908h107v107h-107zM231 8h107v107h-107zM231 119h107v107h-107zM231 231h107v107h-107zM231 346h107v107h-107zM231 458h107v107h-107zM231 569h107v107h-107zM231 685h107v107h-107zM231 796h107v107h-107zM231 908h107v107h-107zM346 8h107v107h-107zM346 119h107v107h-107zM346 231h107v107h-107zM346 346h107v107h-107zM346 458h107v107h-107zM346 569h107v107h-107zM346 685h107v107h-107zM346 796h107v107h-107zM346 908h107v107h-107zM458 8h107v107h-107zM458 119h107v107h-107zM458 231h107v107h-107zM458 346h107v107h-107zM458 458h107v107h-107zM458 569h107v107h-107zM458 685h107v107h-107zM458 796h107v107h-107zM458 908h107v107h-107zM569 8h107v107h-107zM569 119h107v107h-107zM569 231h107v107h-107zM569 346h107v107h-107zM569 458h107v107h-107zM569 569h107v107h-107zM569 685h107v107h-107zM569 796h107v107h-107zM569 908h107v107h-107zM685 8h107v107h-107zM685 119h107v107h-107zM685 231h107v107h-107zM685 346h107v107h-107zM685 458h107v107h-107zM685 569h107v107h-107zM685 685h107v107h-107zM685 796h107v107h-107zM685 908h107v107h-107zM796 8h107v107h-107zM796 119h107v107h-107zM796 231h107v107h-107zM796 346h107v107h-107zM796 458h107v107h-107zM796 569h107v107h-107zM796 685h107v107h-107zM796 796h107v107h-107zM796 908h107v107h-107zM908 8h107v107h-107zM908 119h107v107h-107zM908 231h107v107h-107zM908 346h107v107h-107zM908 458h107v107h-107zM908 569h107v107h-107zM908 685h107v107h-107zM908 796h107v107h-107zM908 908h107v107h-107z" fill="#fff"/><text x="61" y="61" class="v" fill="#000">9</text><text x="61" y="173" class="v" fill="#000">7</text><text x="61" y="284" class="v" fill="#000">4</text><text x="61" y="512" class="v" fill="#000">6</text><text x="173" y="623" class="v" fill="#000">9</text><text x="173" y="850" class="v" fill="#000">4</text><text x="173" y="962" class="v" fill="#000">6</text><text x="284" y="61" class="v" fill="#000">6</text><text x="284" y="173" class="v" fill="#000">1</text><text x="284" y="284" class="v" fill="#000">2</text><text x="284" y="623" class="v" fill="#000">4</text><text x="284" y="739" class="v" fill="#000">3</text><text x="400" y="173" class="v" fill="#000">2</text><text x="400" y="284" class="v" fill="#000">8</text><text x="400" y="739" class="v" fill="#000">7</text><text x="400" y="962" class="v" fill="#000">9</text><text x="512" y="173" class="v" fill="#000">9</text><text x="512" y="400" class="v" fill="#000">2</text><text x="512" y="623" class="v" fill="#000">8</text><text x="512" y="850" class="v" fill="#000">1</text><text x="623" y="61" class="v" fill="#000">1</text><text x="623" y="284" class="v" fill="#000">6</text><text x="623" y="739" class="v" fill="#000">8</text><text x="623" y="850" class="v" fill="#000">3</text><text x="739" y="284" class="v" fill="#000">3</text><text x="739" y="400" class="v" fill="#000">9</text><text x="739" y="739" class="v" fill="#000">4</text><text x="739" y="850" class="v" fill="#000">7</text><text x="739" y="962" class="v" fill="#000">1</text><text x="850" y="61" class="v" fill="#000">4</text><text x="850" y="173" class="v" fill="#000">6</text><text x="850" y="400" class="v" fill="#000">8</text><text x="962" y="512" class="v" fill="#000">2</text><text x="962" y="739" class="v" fill="#000">9</text><text x="962" y="850" class="v" fill="#000">6</text><text x="962" y="962" class="v" fill="#000">8</text></svg>
